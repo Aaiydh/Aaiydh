@@ -1,2 +1,2 @@
 # Aaiydh
-Software Engineer
+I'm a Shopify Developer
